@@ -1,0 +1,13 @@
+[15:38:05,68 and 01/11/2021] Started Engine 
+[15:41:19,14 and 01/11/2021] Started app 
+******************** 
+* LOGFILE Logo4USB * 
+******************** 
+. 
+[15:41:38,45 and 01/11/2021] Started app 
+[15:41:49,44 and 01/11/2021] Started Engine 
+******************** 
+* LOGFILE Logo4USB * 
+******************** 
+. 
+[15:42:22,09 and 01/11/2021] Started app 
