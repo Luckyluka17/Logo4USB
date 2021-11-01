@@ -13,7 +13,7 @@ def creator_page():
 
 
 def aide():
-    os.system("start aide.html")
+    os.system("start aide.pdf")
 
 
 def repimg():
