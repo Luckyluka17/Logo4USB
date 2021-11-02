@@ -6,7 +6,7 @@ Obtenez un logo sur votre clé USB ou tout autre appareil de stockage en USB.
 
 Cliquez sur la version souhaitée.
 
-- [Version 1.0.0]()
+- [Version 1.0.0](https://github.com/Luckyluka17/Logo4USB/releases/tag/1.0.0)
 
 ## 🖼️ Aperçu
 ![](https://zupimages.net/up/21/44/cwoo.png)
