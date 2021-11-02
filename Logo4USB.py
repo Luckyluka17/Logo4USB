@@ -28,7 +28,7 @@ def exitapp():
     os.system("exit")
 
 window = Tk()
-window.geometry("400x350")
+window.geometry("400x300")
 window.title("Logo4USB")
 window.resizable(width=False, height=False)
 window.iconbitmap("icon.ico")
@@ -43,8 +43,6 @@ bouton2 = Button(window, text="Répértoire d'images", font=("Courrier", 20), co
 bouton2.pack()
 bouton3 = Button(window, text="Comment faire ?", font=("Courrier", 20), command=aide)
 bouton3.pack()
-bouton4 = Button(window, text="Quitter le logiciel", font=("Courrier", 20), command=exitapp)
-bouton4.pack()
 creator = Label(window, text="Luckyluka 17#5801", font=("Courrier", 11))
 creator.pack()
 
