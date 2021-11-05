@@ -5,7 +5,16 @@ Ce logiciel est une alternative a Autorun Creator que j'avais fait il y a plusie
 ## 📥 Installation
 ⚠️ Python peut être requis à l'installation du logiciel. Si c'est le cas, exécutez le fichier **PYTHON DOWNLOAD.bat**.
 
-Cliquez sur la version souhaitée.
+### Systèmes d'exploitations pris en charge :
+- Windows 11 (stable)
+- Windows 10 (stable)
+
+Une version pour linux est actuellement en développement.
+
+⚠️ Si votre OS n'est pas dans cette liste, vous ne pouvez pas installer le logiciel !
+
+### Versions
+Cliquez sur celle que vous voulez.
 
 - [Version 1.0.0](https://github.com/Luckyluka17/Logo4USB/releases/tag/1.0.0)
 
